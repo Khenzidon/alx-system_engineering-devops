@@ -1,2 +1,2 @@
-#!/bin/bash
- ls -F -all
+bin/bash
+ ls -F -all --format=commas -m
