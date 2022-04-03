@@ -23,11 +23,10 @@
 11. Directories 
 12. More directories
 13. Change group 
+## Advanced:
+
 14. Owner and group
 15. Symbolic links
-16. If only
-
-## Advanced:
- 
+16. If only 
 17. Star Wars
-18. RTFM
+
