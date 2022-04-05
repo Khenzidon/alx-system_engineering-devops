@@ -1,2 +1,2 @@
 #!/bin/bash
--e printf %.2fn $NUM
+printf %.2f $NUM
